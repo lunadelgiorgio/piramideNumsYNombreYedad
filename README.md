@@ -1,0 +1,2 @@
+# piramideNumsYNombreYedad
+Created with CodeSandbox
